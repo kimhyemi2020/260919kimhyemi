@@ -1,0 +1,6 @@
+{
+  "name": "데이터 상관관계 탐색 대시보드",
+  "description": "고등학교 정보 수업을 위한 멀티모달(시각 차트 + 음성 브리핑) 데이터 상관관계 탐색 및 분석 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
